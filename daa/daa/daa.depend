@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1521535710 source:c:\users\yuvaraj selvaraj\desktop\daa\daa\multiplication.c
+	<stdio.h>
+	<math.h>
+
+1521560026 source:c:\users\yuvaraj selvaraj\desktop\daa\daa\bstlevel order.c
+	<stdio.h>
+	<stdlib.h>
+
